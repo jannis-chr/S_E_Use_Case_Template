@@ -6,8 +6,8 @@ Name der Proband:innen wird abgefragt und eine ID Nummer vergeben
 ### Beschreibung:
 Diagnosiker:in frägt den Namen der Probandinnen ab, trägt diesen ein und legt damit einen Testvorgang an die ID-Nummer wird automatisch vergeben 
 ### Beteiligte Akteure:
-Diagnostiker:in 
-Proband:in 
+- Diagnostiker:in 
+- Proband:in 
 
 ### Status:
 in Arbeit
