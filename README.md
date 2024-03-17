@@ -2,9 +2,9 @@
 Anwendungafall: UC 1.01 (Probandin anlegen)
 
 ### Name/Identifikationsnummer:
-Name der Probanden wird abgefragt und eine ID Nummer vergeben
+Name der Proband:innen wird abgefragt und eine ID Nummer vergeben
 ### Beschreibung:
-der oder die Diagnosiker:in frägt den Namen der Probandinnen ab, trägt diesen ein und legt damit einen Testvorgang an die ID-Nummer wird automatisch vergeben 
+Diagnosiker:in frägt den Namen der Probandinnen ab, trägt diesen ein und legt damit einen Testvorgang an die ID-Nummer wird automatisch vergeben 
 ### Beteiligte Akteure:
 Diagnostiker:in 
 Proband:in 
@@ -12,11 +12,11 @@ Proband:in
 ### Status:
 in Arbeit
 ### Verwendete Anwendungsfälle:
--
+
 ### Auslöser:
 Dringlichkeit eines standartisierten Leistungstests
 ### Vorbedingungen:
--
+
 ### Invarianten:
 Speicherung des Namens mit der vegebenen ID-Nummer
 ### Nachbedingungen/ Ergebnis:
