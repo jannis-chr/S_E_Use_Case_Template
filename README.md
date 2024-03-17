@@ -22,9 +22,9 @@ Speicherung des Namens mit der vergebenen ID-Nummer
 ### Nachbedingungen/ Ergebnis:
 Das Fenster zum Anlegen der Probanden wird nach der Bestätigung automatisch geschlossen
 ### Standardablauf:
-- Der Name wird eingetragen  
-- Eine ID-Nummer wird vergeben 
-- Das Fenster wird automatisch geschlossen
+1.Der Name wird eingetragen  
+2.Eine ID-Nummer wird vergeben 
+3.Das Fenster wird automatisch geschlossen
 ### Alternative Ablaufschritte:
 Falls kein Buchstabe eingegeben wird (Zahl,Sonderzeichen) kann das Fenster nicht geschlossen werden (Fehlermeldung)
 ### Hinweise:
