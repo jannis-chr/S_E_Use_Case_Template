@@ -1,28 +1,28 @@
 ## S_E_Use_Case_Template
 Use Case Template
 
-#Name/Identifikationsnummer:
+# Name/Identifikationsnummer:
 
-#Beschreibung:
+# Beschreibung:
 
-#Beteiligte Akteure:
+# Beteiligte Akteure:
 
-#Status:
+# Status:
 
-#Verwendete Anwendungsfälle:
+# Verwendete Anwendungsfälle:
 
-#Auslöser:
+# Auslöser:
 
-#Vorbedingungen:
+# Vorbedingungen:
 
-#Invarianten:
+# Invarianten:
 
-#Nachbedingungen/ Ergebnis:
+# Nachbedingungen/ Ergebnis:
 
-#Standardablauf:
+# Standardablauf:
 
-#Alternative Ablaufschritte:
+# Alternative Ablaufschritte:
 
-#Hinweise:
+# Hinweise:
 
-#Änderungsgeschichte:
+# Änderungsgeschichte:
