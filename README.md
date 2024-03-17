@@ -20,7 +20,7 @@ Start des Programms
 ### Invarianten:
 Speicherung des Namens mit der vergebenen ID-Nummer
 ### Nachbedingungen/ Ergebnis:
-Das Fenster zum Anlegen der Probanden wird nach der Bestätigung automatischh geschlossen
+Das Fenster zum Anlegen der Probanden wird nach der Bestätigung automatisch geschlossen
 ### Standardablauf:
 Der Name wird eingetragen
 Eine ID-Nummer wird vergeben
