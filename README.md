@@ -18,7 +18,7 @@ Dringlichkeit eines standartisierten Leistungstests
 ### Vorbedingungen:
 Start des Programms
 ### Invarianten:
-Speicherung des Namens mit der vegebenen ID-Nummer
+Speicherung des Namens mit der vergebenen ID-Nummer
 ### Nachbedingungen/ Ergebnis:
 Das Fenster zum Anlegen der Probanden wird nach der Bestätigung automatischh geschlossen
 ### Standardablauf:
